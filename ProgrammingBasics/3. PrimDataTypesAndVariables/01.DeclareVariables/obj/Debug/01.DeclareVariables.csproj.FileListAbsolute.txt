@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\01.DeclareVariables\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb

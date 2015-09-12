@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

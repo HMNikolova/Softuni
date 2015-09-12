@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

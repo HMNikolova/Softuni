@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\08.IsoscelesTriangle\bin\Debug\08.IsoscelesTriangle.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\08.IsoscelesTriangle\obj\Debug\08.IsoscelesTriangle.pdb

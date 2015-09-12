@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\14.PrintTheASCII_Table\bin\Debug\14.PrintTheASCII_Table.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\14.PrintTheASCII_Table\bin\Debug\14.PrintTheASCII_Table.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\14.PrintTheASCII_Table\bin\Debug\14.PrintTheASCII_Table.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\14.PrintTheASCII_Table\obj\Debug\14.PrintTheASCII_Table.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\14.PrintTheASCII_Table\obj\Debug\14.PrintTheASCII_Table.pdb

@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\18.Nine-Digit Magic Numbers\bin\Debug\18.Nine-Digit Magic Numbers.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\18.Nine-Digit Magic Numbers\bin\Debug\18.Nine-Digit Magic Numbers.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\18.Nine-Digit Magic Numbers\bin\Debug\18.Nine-Digit Magic Numbers.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\18.Nine-Digit Magic Numbers\obj\Debug\18.Nine-Digit Magic Numbers.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\18.Nine-Digit Magic Numbers\obj\Debug\18.Nine-Digit Magic Numbers.pdb

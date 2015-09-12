@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

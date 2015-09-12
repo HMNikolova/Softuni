@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

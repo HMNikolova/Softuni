@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\15.JoroTheFootballPlayer\bin\Debug\15.JoroTheFootballPlayer.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\3. PrimDataTypesAndVariables\15.JoroTheFootballPlayer\obj\Debug\15.JoroTheFootballPlayer.pdb

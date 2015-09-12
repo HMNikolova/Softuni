@@ -1,0 +1,2 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\Programming Basics\2. Introduction to Programming\IntroductionProgrammingHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Softuni\ProgrammingBasics\2. IntroductionProgramming\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
